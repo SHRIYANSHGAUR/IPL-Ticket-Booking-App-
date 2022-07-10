@@ -9,20 +9,9 @@ powered Graphical User Interface ,present as frontend. The logic of both backend
 application is developed in JAVA Core. It renders real-time changes made in table data on screen and
 allows for a smooth customer transaction so that they can buy tickets and support their favorite teams.
 ## Technologies used :
-### [LOGIC] : Java is a high-level, class-based, object-oriented programming language that is designed to
-have as few implementation dependencies as possible. It is a general-purpose programming language
-intended to let programmers write once, run anywhere (WORA), meaning that compiled to bytecode can
-run on all platforms that support Java. [1].
-### [GUI] : Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes an API for
-providing a graphical user interface (GUI) for Java programs .It is very more powerful and flexible
-and is also very Light-Weight. Swing components are written entirely in Java and therefore are platformindependent. [1].
-### [DATA] : SQL ( Structured Query Language) is used in programming and designed for managing data
-held in a relational database management system (RDBMS),). It is particularly useful in
-handling structured data, i.e. data incorporating relations among entities and variables
+### [LOGIC] : Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled to bytecode can run on all platforms that support Java. 
+### [GUI] : Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes an API for providing a graphical user interface (GUI) for Java programs .It is very more powerful and flexible and is also very Light-Weight. Swing components are written entirely in Java and therefore are platformindependent.
+### [DATA] : SQL ( Structured Query Language) is used in programming and designed for managing data held in a relational database management system (RDBMS),). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables
 
-## I have implemented Abstraction , Modularity in my code by making separate classes for each of the
-different operations that is being rendered and have called them through the use of ActionListeners from
-my home page . I have provided comments at relevant places in my code to help others understand my
-code better . The power of Swing backed up with mysql database and their beautiful amalgamation
-using JDBC and sql-connector.jar helped me to make a useful DESKTOP application of
-IPL- Ticket Booking System pure JAVA CORE. 
+## I have implemented Abstraction , Modularity in my code by making separate classes for each of the different operations that is being rendered and have called them through the use of ActionListeners from my home page . I have provided comments at relevant places in my code to help others understand my
+code better . The power of Swing backed up with mysql database and their beautiful amalgamation using JDBC and sql-connector.jar helped me to make a useful DESKTOP application of IPL- Ticket Booking System pure JAVA CORE. 
